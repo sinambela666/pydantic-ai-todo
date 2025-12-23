@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/pypi/pyversions/pydantic-ai-todo.svg)](https://pypi.org/project/pydantic-ai-todo/)
 [![License](https://img.shields.io/github/license/vstorm-co/pydantic-ai-todo)](https://github.com/vstorm-co/pydantic-ai-todo/blob/main/LICENSE)
 
-Todo/task planning toolset for [pydantic-ai](https://ai.pydantic.dev/) agents.
+Todo/task planning toolset for [pydantic-ai](https://ai.pydantic.dev/) agents. Part of the [pydantic-deep](https://github.com/vstorm-co/pydantic-deep) ecosystem.
 
 Provides `read_todos` and `write_todos` tools that help AI agents track and manage tasks during a session. Works with any pydantic-ai agent - no specific dependencies required.
 
@@ -150,12 +150,9 @@ print(storage.todos)
 
 Protocol for custom storage implementations. Must have a `todos` property with getter and setter.
 
-## Used By
-
-- [**pydantic-deep**](https://github.com/vstorm-co/pydantic-deep) - Deep agent framework built on pydantic-ai
-
 ## Related Projects
 
+- [**pydantic-deep**](https://github.com/vstorm-co/pydantic-deep) - Deep agent framework built on pydantic-ai
 - [**pydantic-ai**](https://ai.pydantic.dev/) - Agent framework for Python
 - [**pydantic**](https://docs.pydantic.dev/) - Data validation library
 
